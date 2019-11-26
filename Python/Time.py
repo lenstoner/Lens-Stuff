@@ -52,7 +52,7 @@ class Time:
             self.__hour = 0
 
 
-    """Getter function for Time variables"""
+    """GEt function for Time variables"""
     def get_second(self):
         return self.__second
     def get_minute(self):
